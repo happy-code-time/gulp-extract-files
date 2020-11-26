@@ -1,5 +1,5 @@
 {
-  "name": "gulp-task-copy-videos",
+  "name": "gulp-task-extract-videos",
   "version": "1.0.0",
   "description": "Extract all videos from given source path",
   "main": "index.js",
