@@ -1,0 +1,15 @@
+{
+  "name": "gulp-task-copy-videos",
+  "version": "1.0.0",
+  "description": "Extract all videos from given source path",
+  "main": "index.js",
+  "scripts": {
+    "extract": "./node_modules/.bin/gulp extract"
+  },
+  "author": "David Janitzek",
+  "license": "GNU",
+  "devDependencies": {
+    "graceful-fs": "^4.2.2",
+    "gulp": "^3.9.1"
+  }
+}
