@@ -2,9 +2,10 @@
 
     nano gulpfile
 
-    #  Change the variables: 
-    #  SOURCE='your/source/path'
-    #  DESCTINATION='your/target/path' 
+    # Change the variables: 
+    # SOURCE='your/source/path'
+    # DESCTINATION='your/target/path' 
+    # TYPES='mp4,mp3'
 
     npm install
 
